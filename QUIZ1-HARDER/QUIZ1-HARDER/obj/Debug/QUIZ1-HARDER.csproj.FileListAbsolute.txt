@@ -1,0 +1,10 @@
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\bin\Debug\QUIZ1-HARDER.exe.config
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\bin\Debug\QUIZ1-HARDER.exe
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\bin\Debug\QUIZ1-HARDER.pdb
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\obj\Debug\QUIZ1-HARDER.csprojResolveAssemblyReference.cache
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\obj\Debug\QUIZ1_HARDER.Form1.resources
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\obj\Debug\QUIZ1_HARDER.inputfrm.resources
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\obj\Debug\QUIZ1_HARDER.Properties.Resources.resources
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\obj\Debug\QUIZ1-HARDER.csproj.GenerateResource.Cache
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\obj\Debug\QUIZ1-HARDER.exe
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\QUIZ1-HARDER\QUIZ1-HARDER\obj\Debug\QUIZ1-HARDER.pdb
